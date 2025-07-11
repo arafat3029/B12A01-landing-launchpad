@@ -115,3 +115,33 @@ p.normal {
 .ss-bb {
     color: #B3B3B3;
 }
+section.all-flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+h2.left-title-aa {
+    font-size: 93px;
+    margin-top: 206px;
+}
+input[type="email"] {
+    width: 500px;
+    height: 90px;
+    border-radius: 10px;
+}input[type="text"] {
+    width: 500px;
+    height: 90px;
+    border-radius: 10px;
+}
+textarea {
+    width: 500px;
+    height: 90px;
+    border-radius: 10px;
+}
+p.email-a {
+    font-size: 23px;
+}
+button.share-button.last-btn {
+    width: 500px;
+    height: 90px;
+    border-radius: 13px;
+}
