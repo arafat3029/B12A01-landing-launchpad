@@ -52,3 +52,28 @@ h1.title {
 .right-img{
     border-radius: 12px;
 }
+h2.title-arafat {
+    font-size: 48px;
+    /*align-items: center;*/
+    text-align: center;
+    color: #252432;
+}
+.box-all {
+    display: flex;
+    margin: 58px;
+    justify-content: space-evenly;
+}
+.background {
+    background-color: #e6e8ff;
+}
+h1.color {
+    color: #4E47FF;
+}
+p.color-b {
+    color: #000000;
+}
+.background {
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 9px;
+}
