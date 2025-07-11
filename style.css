@@ -32,3 +32,23 @@ header {
 h1.title {
     font-size: 83px;
 }
+.bt-btm{
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+.action-section {
+    display: flex;
+    justify-content: space-around;
+}
+.subtitle {
+    color: #ACACAC;
+    font-size: 40px;
+    word-wrap: break-word;
+}
+/*p .subtitle {
+    font-size: 40px;
+    word-wrap: break-word;
+}*/
+.right-img{
+    border-radius: 12px;
+}
