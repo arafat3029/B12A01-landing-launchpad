@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 /*vav bar*/
-.benner{
+header {
     background-image: url(Assets/Hero-bg.png);
-    background-repeat: no-repeat;
 }
 .nav-bar{
     display: flex;
@@ -25,7 +24,11 @@
     font-size: 15px;
 }
 /*----------*/
-.benner {
+.benner-b {
+    color: #252432;
     text-align: center;
-    margin: 161px 26px;
+    margin: 73px 368px;
+}
+h1.title {
+    font-size: 83px;
 }
