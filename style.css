@@ -2,6 +2,9 @@
 body {
     background-color: #f5f8ff;
 }
+a {
+    text-decoration: none;
+}
 /*vav bar*/
 header {
     background-image: url(Assets/Hero-bg.png);
@@ -144,4 +147,27 @@ button.share-button.last-btn {
     width: 500px;
     height: 90px;
     border-radius: 13px;
+}
+
+
+
+
+.centered {
+    max-width: 454px;
+    margin: 0 auto;
+}
+.b-icon {
+    display: flex;
+    justify-content: space-between;
+}
+h2.last-logo {
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    margin-left: 133px;
+}
+footer {
+    margin: 21px;
+    padding-bottom: 66px;
 }
